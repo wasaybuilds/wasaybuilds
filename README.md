@@ -15,7 +15,6 @@ Hi, I'm Wasay, a Full-Stack Engineer specializing in end-to-end platform develop
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wasaybuilds&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
