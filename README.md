@@ -3,7 +3,7 @@
 Backend-focused full-stack engineer in Lahore. I build CRM and SaaS platforms end to end and
 connect them to the systems clients already run.
 
-Three years at [Hatzs Dimensions](https://www.linkedin.com/in/abdul-wasay01), where I've shipped
+Three years at [Hatzs Dimensions](https://www.linkedin.com/in/wasaybuilds), where I've shipped
 four CRM products across four industries. Two of them, Befer and DealerIQ, were later registered
 as their own companies.
 
@@ -71,6 +71,6 @@ monitoring and alerting
 
 ### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/abdul-wasay01) · [wasaya670@gmail.com](mailto:wasaya670@gmail.com) · [Portfolio](https://wasay-one.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/wasaybuilds) · [wasaya670@gmail.com](mailto:wasaya670@gmail.com) · [Portfolio](https://wasay-one.vercel.app)
 
 Open to remote work.
