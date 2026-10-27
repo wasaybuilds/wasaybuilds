@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://wasaybuilds.hashnode.dev">Blog</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/wasaybuilds">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://wasay.grepiv.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://wasay-one.vercel.app">Portfolio</a> &nbsp;·&nbsp;
   <a href="mailto:wasaya670@gmail.com">Email</a>
 </p>
 
