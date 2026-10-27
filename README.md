@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://wasaybuilds.hashnode.dev">Blog</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/wasaybuilds">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://wasay-one.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://wasay.grepiv.com">Portfolio</a> &nbsp;·&nbsp;
   <a href="mailto:wasaya670@gmail.com">Email</a>
 </p>
 
@@ -42,12 +42,17 @@ npx proof-of-done install claude-code
 
 I'm collecting real, documented cases of agents faking "done", plus build logs on the tool itself.
 
+- [Can an AI coding agent switch off its own guardrail? I tried.](https://wasaybuilds.hashnode.dev/ai-agent-switch-off-guardrail-build-log)
 - [The agent said "all tests pass." The test folder was 70% smaller.](https://wasaybuilds.hashnode.dev/the-agent-said-all-tests-pass-the-test-folder-was-70-smaller)
 - [I tested my AI agent guardrail on a real agent. It made Claude undo my own request.](https://wasaybuilds.hashnode.dev/i-tested-my-ai-agent-guardrail-on-a-real-agent-it-made-claude-undo-my-own-request)
 
 <br>
 
 ## Open source
+
+**[NestJS GraphQL #4105](https://github.com/nestjs/graphql/pull/4105)** · merged
+
+Nest always created its own `WebSocketServer` for `graphql-ws` subscriptions, so there was no way to set compression, payload limits or client verification. Added a `server` option that takes a pre-configured instance, closing an issue open since 2023.
 
 **[TanStack Query #11188](https://github.com/TanStack/query/pull/11188)** · merged
 
